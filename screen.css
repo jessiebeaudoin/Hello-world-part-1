@@ -14,7 +14,7 @@
    }
 
    .masthead {
-     background-image: url('computer image.png');
+     background-image: url('images/Computer\ image.png');
      background-size: cover;
      background-position: bottom;
      height: 250px;
@@ -37,6 +37,10 @@
  
    img {
         width: 100%;
+   }
+
+   h1 {
+     background-image: url('images/Logo.png');
    }
 
    h2 {
